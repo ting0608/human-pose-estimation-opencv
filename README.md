@@ -7,7 +7,7 @@ Perform Human Pose Estimation in OpenCV Using OpenPose MobileNet
 # How to use
 
 - Test with webcam
-
+ 
 ```
 python openpose.py
 ```
